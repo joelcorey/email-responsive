@@ -17,5 +17,25 @@
 @import "custom/utilities";
 
 h1 {
-  font-family: 'Pacifico';
+  font-family: 'Pacifico', cursive;
+  color: black;
+}
+
+p {
+  font-family: 'Indie Flower', cursive;
+}
+
+.header-textblock-background {
+  background: black;
+  padding: 2%;
+  border-radius: 5px;
+}
+
+.bg-indigo-800 {
+  background-color: white;
+  color: black;
+}
+
+.title-image {
+  background-color: black;
 }
